@@ -25,7 +25,7 @@
     "cookie-parser": "^1.4.6",
     "docx": "^7.8.2",
     "docx-templates": "^4.11.0",
-    "docxtemplater": "^3.34.2",
+    "docxtemplater": "^3.51.2",
     "docxtemplater-image-module-pwndoc": "github:pwndoc/docxtemplater-image-module-pwndoc",
     "express": "^4.18.2",
     "full-icu": "^1.5.0",
